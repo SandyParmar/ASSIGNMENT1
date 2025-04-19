@@ -17,6 +17,8 @@ This program acts like a simple calculator that does the following:
    - **Division** (`/`)
 
 4. **Finally, it prints out the result of each operation**, so the user can see the total, difference, product, and quotient.
+
+
 **Task 2: Greeting Program**
 
 This program is a friendly greeter. Here’s what it does:
